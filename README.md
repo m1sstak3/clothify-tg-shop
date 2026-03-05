@@ -89,7 +89,7 @@
 ### 1. Подготовка окружения
 Склонируйте репозиторий и создайте файл конфигурации:
 ```bash
-git clone [https://github.com/m1sstak3/clothify-tg-bot.git](https://github.com/m1sstak3/clothify-tg-bot.git)
+git clone https://github.com/m1sstak3/clothify-tg-bot.git
 cd clothify-tg-bot
 cp .env.example .env
 ```
