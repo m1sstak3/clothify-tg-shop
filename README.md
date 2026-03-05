@@ -1,6 +1,13 @@
 <div align="center">
   <h1>👕 Clothify – Telegram Shop Bot (MVP)</h1>
   <p><b>Готовое решение для запуска интернет-магазина в Telegram: каталог, корзина и админ-панель</b></p>
+
+  <div>
+    <img src="https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Aiogram_3.x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/FSM_Architecture-8A2BE2?style=for-the-badge&logo=codeigniter&logoColor=white" alt="FSM" />
+  </div>
 </div>
 
 ---
