@@ -4,17 +4,6 @@
 
 ---
 
-## 📱 Демонстрация интерфейса
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fc15cee8-5509-441a-815c-660919c32d92" width="600" />
-  <br><br>
-  <img src="https://github.com/user-attachments/assets/a9623bc7-31d4-4f95-b4ab-dde65083b41f" width="600" />
-  <br><br>
-  <img src="https://github.com/user-attachments/assets/ce6b83ab-6d63-49f0-b06b-5300dadee0d9" width="600" />
-  <br><br>
-  <img src="https://github.com/user-attachments/assets/cea9dbe0-9635-48e6-a85b-eed496d8c6d5" width="600" />
-</div>
 
 ---
 
@@ -32,9 +21,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <b>⚙️ Панель управления (Admin)</b><br>
       <img src="https://github.com/user-attachments/assets/ce6b83ab-6d63-49f0-b06b-5300dadee0d9" width="400" />
+    </td>
+    <td align="center">
+      <b>➕ Добавление товара</b><br>
+      <img src="https://github.com/user-attachments/assets/cea9dbe0-9635-48e6-a85b-eed496d8c6d5" width="400" />
     </td>
   </tr>
 </table>
