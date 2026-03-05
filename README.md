@@ -12,31 +12,29 @@
   <img src="https://github.com/user-attachments/assets/a9623bc7-31d4-4f95-b4ab-dde65083b41f" width="600" />
   <br><br>
   <img src="https://github.com/user-attachments/assets/ce6b83ab-6d63-49f0-b06b-5300dadee0d9" width="600" />
-</div>
-  <img src="https://github.com/user-attachments/assets/cea9dbe0-9635-48e6-a85b-eed496d8c6d5" width="600" />
   <br><br>
+  <img src="https://github.com/user-attachments/assets/cea9dbe0-9635-48e6-a85b-eed496d8c6d5" width="600" />
+</div>
 
 ---
 
 ## 📱 Демонстрация интерфейса
 
-> 💡 **Заметка:** Замени ссылки `src=""` на свои картинки, пропущенные через Shots.so, и добавь короткое видео покупки товара!
-
 <table align="center">
   <tr>
     <td align="center">
       <b>🛍 Каталог товаров</b><br>
-      <img src="https://via.placeholder.com/400x800/151B23/FFFFFF?text=Mockup+1:+Catalog" width="400" />
+      <img src="https://github.com/user-attachments/assets/fc15cee8-5509-441a-815c-660919c32d92" width="400" />
     </td>
     <td align="center">
       <b>📏 Карточка и выбор размера</b><br>
-      <img src="https://via.placeholder.com/400x800/151B23/FFFFFF?text=Mockup+2:+Product+Card" width="400" />
+      <img src="https://github.com/user-attachments/assets/a9623bc7-31d4-4f95-b4ab-dde65083b41f" width="400" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <b>⚙️ Панель управления (Admin)</b><br>
-      <img src="https://via.placeholder.com/400x800/151B23/FFFFFF?text=Mockup+3:+Admin+Panel" width="400" />
+      <img src="https://github.com/user-attachments/assets/ce6b83ab-6d63-49f0-b06b-5300dadee0d9" width="400" />
     </td>
   </tr>
 </table>
